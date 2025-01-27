@@ -60,6 +60,7 @@
   justify-content: center;
   text-align: center;
   align-items: center;
+  transition: all 0.3s ease ;
 }
 .nav2-elems img {
   width: 50px;
@@ -69,6 +70,7 @@
   border-bottom-left-radius: 6px;
   &:hover {
     background-color: #919191;
+    color: white;
   }
 }
 
@@ -76,12 +78,14 @@
   border-bottom: 5.5px solid #e3350d;
   &:hover {
     background-color: #e3350d;
+    color: white;
   }
 }
 .nav2-elem3 {
   border-bottom: 5.5px solid #ee6b2f;
   &:hover {
     background-color: #ee6b2f;
+    color: white;
   }
 }
 .nav2-elem4 {
@@ -93,12 +97,14 @@
   border-bottom: 5.5px solid #4dad5b;
   &:hover {
     background-color: #4dad5b;
+    color: white;
   }
 }
 .nav2-elem6 {
   border-bottom: 5.5px solid #30a7d7;
   &:hover {
     background-color: #30a7d7;
+    color: white;
   }
 }
 .nav2-elem7 {
@@ -106,6 +112,7 @@
   border-bottom-right-radius: 6px;
   &:hover {
     background-color: #1b53ba;
+    color: white;
   }
 }
 .main {
