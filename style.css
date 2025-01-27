@@ -59,6 +59,9 @@
   flex-direction: column;
   justify-content: center;
 }
+.nav2-elems img {
+  width: 100px;
+}
 .nav2-elem1 {
   border-bottom: 5.5px solid #919191;
   border-bottom-left-radius: 6px;
