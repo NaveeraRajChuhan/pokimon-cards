@@ -58,9 +58,11 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  text-align: center;
+  align-items: center;
 }
 .nav2-elems img {
-  width: 100px;
+  width: 50px;
 }
 .nav2-elem1 {
   border-bottom: 5.5px solid #919191;
