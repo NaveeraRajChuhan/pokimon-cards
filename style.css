@@ -802,7 +802,7 @@ li {
 }
 
 
-@media all screen and (min-width: 1302px ) {
+@media screen and (min-width: 1302px ) {
   .wrapper {
     margin: 0px auto;
   }
